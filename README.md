@@ -14,6 +14,8 @@
 <!-- BLOG-POST-LIST:END -->
 ### Speakings 🎙
 
+- [LiveEvents](https://www.youtube.com/playlist?list=PLxp4hiPy2pK898fmIsZj3N7tOxx6bgUls)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
