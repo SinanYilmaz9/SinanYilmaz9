@@ -9,9 +9,11 @@
 
 - 💬 Ask me about **Android, Firebase, Huawei Mobile Services**
 
-### Blogs posts
+### Blogs posts 📝
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+### Speakings 🎙
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
