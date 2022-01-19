@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/flutterian" target="blank"><img src="https://img.shields.io/twitter/follow/flutterian?logo=twitter&style=for-the-badge" alt="flutterian" /></a> </p>
 
-- 🔭 I’m currently working on [Huawei Mobile Services](https://developer.huawei.com/consumer/en/)
+- 🔭 I’m currently working on [Huawei Mobile Services](https://developer.huawei.com/consumer/en/) at @Huawei
 
 - 📝 I regularly write articles on [https://medium.com/@sinanyilmaz](https://medium.com/@sinanyilmaz)
 
