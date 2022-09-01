@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinan</h1>
 <h3 align="center">A Software Engineer from Turkey</h3>
 
-<p align="left"> <a href="https://twitter.com/flutterian" target="blank"><img src="https://img.shields.io/twitter/follow/flutterian?logo=twitter&style=for-the-badge" alt="flutterian" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sinanyilmazdev" target="blank"><img src="https://img.shields.io/twitter/follow/sinanyilmazdev?logo=twitter&style=for-the-badge" alt="sinanyilmazdev" /></a> </p>
 
 - 🔭 I’m currently working on [Huawei Mobile Services](https://developer.huawei.com/consumer/en/)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/flutterian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="flutterian" height="30" width="40" /></a>
+<a href="https://twitter.com/sinanyilmazdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="flutterian" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sinannnyilmaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sinannnyilmaz" height="30" width="40" /></a>
 <a href="https://medium.com/@sinanyilmaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sinanyilmaz" height="30" width="40" /></a>
 </p>
